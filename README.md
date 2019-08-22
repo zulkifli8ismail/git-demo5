@@ -5,3 +5,4 @@ A project to demo git
 
 # test git using VSC
 # cuba merge guna notepad
+## cuba lg merge guna notepad
